@@ -12,8 +12,8 @@ for x in range(n):
     print(x)
 
 """
-
-
+"""
+#leap year function exercise
 x= 1990
 def leap_year(x):
     if x%400 ==0:
@@ -30,3 +30,18 @@ def leap_year(x):
         return False
 
 leap_year(x)
+"""
+"""
+#convert number list into single string
+n = 6
+num_list =[]
+string = ''
+for x in range(1,n):
+    y = str(x)
+    num_list.append(y)
+    z = ''.join(num_list)
+
+
+print(z)
+"""
+
