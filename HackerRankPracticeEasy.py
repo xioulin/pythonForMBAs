@@ -44,7 +44,7 @@ for x in range(1,n):
 
 print(z)
 
-import itertools
+#item comprehension
 a =4
 b=3
 c=1
@@ -62,3 +62,17 @@ for i in range(len(soylentGreen)):
 
 print(starshipTroopers)
 """
+
+
+n = 5
+arrList = [2,3,6,6,5]
+
+print(arrList)
+print(max(arrList))
+
+nonMax = [n for n in arrList if n !=max(arrList)]
+
+print(max(nonMax))
+
+
+
