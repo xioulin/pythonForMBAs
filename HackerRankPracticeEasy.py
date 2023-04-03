@@ -43,5 +43,22 @@ for x in range(1,n):
 
 
 print(z)
-"""
 
+import itertools
+a =4
+b=3
+c=1
+n=4
+
+soylentGreen =[list((x, y, z)) for x in range(a+1) for y in range(b+1) for z in range(c+1)]
+
+starshipTroopers = []
+
+for i in range(len(soylentGreen)):
+    #print(soylentGreen[i])
+    #print(sum(soylentGreen[i]))
+    if sum(soylentGreen[i]) !=n:
+        starshipTroopers.append(soylentGreen[i])
+
+print(starshipTroopers)
+"""
