@@ -61,7 +61,7 @@ for i in range(len(soylentGreen)):
         starshipTroopers.append(soylentGreen[i])
 
 print(starshipTroopers)
-"""
+
 
 
 n = 5
@@ -73,6 +73,16 @@ print(max(arrList))
 nonMax = [n for n in arrList if n !=max(arrList)]
 
 print(max(nonMax))
+"""
+
+line = "this is a string"
+def split_and_join(line):
+    lineX = line.split(" ")
+    lineZ = "-".join(lineX)
+    return lineZ
+
+print(split_and_join(line))
+
 
 
 
