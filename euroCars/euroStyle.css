@@ -1,0 +1,18 @@
+h1{
+    color:purple;
+    text-align: center;
+}
+ol{
+    color:navy;
+    text-align: left;
+}
+li{
+    font-size: large;
+    text-align: center;
+}
+img{
+
+    width: 25%;
+    height:auto;
+    align-items: center;
+}
