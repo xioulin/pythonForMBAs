@@ -1,5 +1,6 @@
 This is a Jupyter Notebook project utilizing a used car dataset from Kaggle for cars. (https://www.kaggle.com/datasets/ander289386/cars-germany?resource=download)
 
+For a screen recorded walk through, please check out my youtube page: https://www.youtube.com/@pkc-Steelkilt, 
 
 1. Exploratory Data Analysis and Visualization
 •	Basic data exploration and visualization
@@ -16,17 +17,18 @@ This is a Jupyter Notebook project utilizing a used car dataset from Kaggle for 
 
    2. depreciation over time
 
-The next step is testing for coefficients of correlation affecting the price of the vehicle. Whether it is mileage, horsepower,
-or age of the vehicle that is best correlated with the price.
+
+
 
 
 Another point of analysis is finding value retention or car depreciation year over year. The secondary market for automobiles
 is one of the robust so knowing which vehicles best retain value and what factors might impact that would  be a critical
 point of consideration for industry players.
 
-Later, I will eventually get around to figuring out how to devise a price predictor. What factors affect the outcome
-of the price of an automobile.
 
-Finally, I may develop a front end space to this proejct, incorporating HTML, CSS, Javascript and the like.
+I need to write a script which finds which car make most retains its value. How? I'm not sure. I'd have to write a script,
+maybe set up some SQL database, write the data into that database, then find which ones are best retaining in value.
 
-I'm just testing something. Like really
+After that, I think I'm good to go. I'm ready to be a data scientist 8 months from now. Easily. But I want to make money for now
+so it goes. 
+
