@@ -25,10 +25,3 @@ Another point of analysis is finding value retention or car depreciation year ov
 is one of the robust so knowing which vehicles best retain value and what factors might impact that would  be a critical
 point of consideration for industry players.
 
-
-I need to write a script which finds which car make most retains its value. How? I'm not sure. I'd have to write a script,
-maybe set up some SQL database, write the data into that database, then find which ones are best retaining in value.
-
-After that, I think I'm good to go. I'm ready to be a data scientist 8 months from now. Easily. But I want to make money for now
-so it goes. 
-
