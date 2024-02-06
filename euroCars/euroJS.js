@@ -1,12 +1,6 @@
 
 
-function fuckMyAss(){
-    confirm("you just fucked my ass!!?!")
-}
 
-function fuckMe(x){
-    confirm("you just fucked me in the ass!!!");
-}
 
 let topTen= ['Volkswagen',
  'Opel',

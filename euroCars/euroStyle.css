@@ -1,6 +1,7 @@
 h1{
     color:purple;
     text-align: center;
+    font-size: 55pt;
 }
 ol{
     color:navy;
@@ -10,9 +11,27 @@ li{
     font-size: large;
     text-align: center;
 }
-img{
+.images{
+    text-align: center;
+}
 
-    width: 25%;
-    height:auto;
-    align-items: center;
+.car_image{
+    width:34%;
+    padding:1%;
+    background-color: hotpink;
+    border: 10px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#declaration{
+    text-indent:5%;
+    background-color: lightpink;
+    font-family:Snell Roundhand;
+
+}
+
+span{
+    color:red;
+
 }
