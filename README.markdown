@@ -17,11 +17,9 @@ For a screen recorded walk through, please check out my youtube page: https://ww
 
    2. depreciation over time
 
+   Find cars with the same make and model over the ten year span. Find how much price depreciates and what affects that depreciation. 
 
 
 
-
-Another point of analysis is finding value retention or car depreciation year over year. The secondary market for automobiles
-is one of the robust so knowing which vehicles best retain value and what factors might impact that would  be a critical
-point of consideration for industry players.
+Another point of analysis is finding value retention or car depreciation year over year. The secondary market for automobiles is one of the robust so knowing which vehicles best retain value and what factors might impact that would  be a critical point of consideration for industry players.
 
