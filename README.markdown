@@ -1,8 +1,14 @@
-This is a jupyter noteboook analytics project utilizing some techniques from Python for MBAs
+This project is based on techniques from the book [Python for MBAs](https://www.pythonformbas.com/), which is a fantastic resource for business professionals looking to develop their Python data analytics capabilities.
 
 This is a Jupyter Notebook project utilizing a [used car dataset from Kaggle for cars.](https://www.kaggle.com/datasets/ander289386/cars-germany?resource=download) 
 
-For a screen recorded walk through, please check out [my youtube page](https://www.youtube.com/@pkc-Steelkilt).
+For a screen recorded walk through, please check out [my youtube page](https://www.youtube.com/@pkc-Steelkilt). 
+
+
+ok, i know, i just hyperlink the youtube video and link to the jupyter notebook, explaining what I did. 
+This will show my work process, how I think, how I approach issues, and explain what I did. 
+This will show that I will leave behind well documented code which will make it much easier for whoever follows me.
+
 
 1. Exploratory Data Analysis and Visualization
 •	Basic data exploration and visualization
