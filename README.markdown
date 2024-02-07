@@ -2,7 +2,7 @@ This is a jupyter noteboook analytics project utilizing some techniques from Pyt
 
 This is a Jupyter Notebook project utilizing a [used car dataset from Kaggle for cars.](https://www.kaggle.com/datasets/ander289386/cars-germany?resource=download) 
 
-For a screen recorded walk through, please check out [my youtube page](https://www.youtube.com/@pkc-Steelkilt.
+For a screen recorded walk through, please check out [my youtube page](https://www.youtube.com/@pkc-Steelkilt).
 
 1. Exploratory Data Analysis and Visualization
 •	Basic data exploration and visualization
