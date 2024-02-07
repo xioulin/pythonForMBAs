@@ -1,6 +1,8 @@
-This is a Jupyter Notebook project utilizing a used car dataset from Kaggle for cars. (https://www.kaggle.com/datasets/ander289386/cars-germany?resource=download)
+This is a jupyter noteboook analytics project utilizing some techniques from Python for MBAs
 
-For a screen recorded walk through, please check out my youtube page: https://www.youtube.com/@pkc-Steelkilt, 
+This is a Jupyter Notebook project utilizing a [used car dataset from Kaggle for cars.](https://www.kaggle.com/datasets/ander289386/cars-germany?resource=download) 
+
+For a screen recorded walk through, please check out [my youtube page](https://www.youtube.com/@pkc-Steelkilt.
 
 1. Exploratory Data Analysis and Visualization
 •	Basic data exploration and visualization
@@ -16,6 +18,10 @@ For a screen recorded walk through, please check out my youtube page: https://ww
       •	Coefficient of correlation calculation done for numerical values, only noteworthy correlation with price would be horsepower
 
    2. depreciation over time
+   Depreciation by year:
+   Depreciation by mileage:
+   
+
 
    Find cars with the same make and model over the ten year span. Find how much price depreciates and what affects that depreciation. 
 
