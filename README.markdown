@@ -2,13 +2,10 @@ This project is based on techniques from the book [Python for MBAs](https://www.
 
 This is a Jupyter Notebook project utilizing a [used car dataset from Kaggle for cars.](https://www.kaggle.com/datasets/ander289386/cars-germany?resource=download) 
 
-For a screen recorded walk through, please check out [my youtube page](https://www.youtube.com/@pkc-Steelkilt). 
+For a screen recorded walk through, please check out [youtube](https://www.youtube.com/@pkc-Steelkilt). 
 
 
-ok, i know, i just hyperlink the youtube video and link to the jupyter notebook, explaining what I did. 
-This will show my work process, how I think, how I approach issues, and explain what I did. 
-This will show that I will leave behind well documented code which will make it much easier for whoever follows me.
-
+Skills Demonstrated
 
 1. Exploratory Data Analysis and Visualization
 •	Basic data exploration and visualization
@@ -26,12 +23,3 @@ This will show that I will leave behind well documented code which will make it 
    2. depreciation over time
    Depreciation by year:
    Depreciation by mileage:
-   
-
-
-   Find cars with the same make and model over the ten year span. Find how much price depreciates and what affects that depreciation. 
-
-
-
-Another point of analysis is finding value retention or car depreciation year over year. The secondary market for automobiles is one of the robust so knowing which vehicles best retain value and what factors might impact that would  be a critical point of consideration for industry players.
-
